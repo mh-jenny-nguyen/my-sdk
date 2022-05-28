@@ -14,7 +14,7 @@
     "allowSyntheticDefaultImports": true,
     "noErrorTruncation": false,
     // Otherwise we get react-native typings which conflict with dom.lib.
-    "types": ["node", "react", "@material-ui/core"],
+    "types": ["node", "react", "@mui/material"],
     "emitDeclarationOnly": true,
     "declaration": true
   },
